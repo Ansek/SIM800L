@@ -4,7 +4,7 @@
 * [Описание создания проекта в STM32CubeMX для Keil µVision5](#project)
 * [Описание созданных модулей](#files)
 * [Список реализованных команд](#commands)
-* [Пример работы](#docs)  
+* [Пример работы](#example)  
 
 <img src=".github/images/image1.png" height="300"/> 
 
